@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./fossiliahantoni00solagoog_0003.png"; bbox 0 0 1254 1500; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 534 737 837 916">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 534 737 837 916">
+     <span class='ocr_line' id='line_1_1' title="bbox 534 737 837 916; baseline 0 -115"><span class='ocrx_word' id='word_1_1' title='bbox 534 737 837 916; x_wconf 95' lang='lat' dir='ltr'>   </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 550 709 876 813">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 550 709 876 813">
+     <span class='ocr_line' id='line_1_2' title="bbox 646 709 770 728; baseline 0 0"><span class='ocrx_word' id='word_1_2' title='bbox 646 709 770 728; x_wconf 78' lang='lat' dir='ltr'>BRANNER</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 550 720 876 789; baseline 0 -32"><span class='ocrx_word' id='word_1_3' title='bbox 550 755 551 758; x_wconf 73' lang='grc'>,</span> <span class='ocrx_word' id='word_1_4' title='bbox 565 739 727 758; x_wconf 80' lang='lat' dir='ltr'>GEOLOGICAL</span> <span class='ocrx_word' id='word_1_5' title='bbox 739 740 864 789; x_wconf 45' lang='grc' dir='ltr'>ΠΒῙζΛΚῩ-ηὶὶἶ</span> <span class='ocrx_word' id='word_1_6' title='bbox 874 720 876 774; x_wconf 74' lang='grc' dir='ltr'>Ι</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 691 775 876 813; baseline -0.005 -9"><span class='ocrx_word' id='word_1_7' title='bbox 691 784 717 788; x_wconf 45' lang='lat'><em>*</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 743 797 749 804; x_wconf 20' lang='grc' dir='ltr'>κ</span> <span class='ocrx_word' id='word_1_9' title='bbox 784 787 789 798; x_wconf 79' lang='lat'>=</span> <span class='ocrx_word' id='word_1_10' title='bbox 805 799 814 813; x_wconf 48' lang='lat'>2</span> <span class='ocrx_word' id='word_1_11' title='bbox 835 775 876 803; x_wconf 42' lang='grc' dir='ltr'>*ΑΛ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 610 929 810 1001">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 610 929 810 1001">
+     <span class='ocr_line' id='line_1_5' title="bbox 679 929 736 952; baseline 0 -6"><span class='ocrx_word' id='word_1_12' title='bbox 679 929 712 952; x_wconf 76' lang='lat' dir='ltr'>Gtsl</span> <span class='ocrx_word' id='word_1_13' title='bbox 718 929 736 952; x_wconf 85' lang='lat' dir='ltr'>os</span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 610 979 810 1001; baseline -0.01 -3"><span class='ocrx_word' id='word_1_14' title='bbox 610 981 644 998; x_wconf 80' lang='lat' dir='ltr'>Dr.</span> <span class='ocrx_word' id='word_1_15' title='bbox 660 981 682 997; x_wconf 85' lang='grc' dir='ltr'>Δ.</span> <span class='ocrx_word' id='word_1_16' title='bbox 696 980 747 1001; x_wconf 52' lang='lat' dir='ltr'>myz-</span> <span class='ocrx_word' id='word_1_17' title='bbox 759 979 810 996; x_wconf 71' lang='lat' dir='ltr'>Keen</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 786 1402 1027 1493">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 786 1402 1027 1493">
+     <span class='ocr_line' id='line_1_7' title="bbox 786 1402 1027 1493; baseline 0 7"><span class='ocrx_word' id='word_1_18' title='bbox 786 1402 1027 1493; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
